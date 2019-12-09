@@ -5,6 +5,7 @@ Login system with roles - Laravel 6.x
 <ol>
 <li>composer require laravel/ui --dev</li>
 <li>php artisan ui vue --auth</li>
+<li>npm install && npm run dev</li>
 </ol>
 
 
